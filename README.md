@@ -3,7 +3,7 @@ Subquery : Pizza Sales Analysis
 Note: This is not an actual business project, but a set of example queries designed to demonstrate the use of subqueries in SQL. The queries provide insights into pizza sales data and illustrate how subqueries can be used to calculate totals, averages, and top performers across different categories, days, and sizes.
 
 This project demonstrates the use of subqueries in SQL to analyze pizza sales data. 
-we investigate sales patterns across various dimensions: by pizza type, by category, by individual order, by day, and by size. The queries highlight methods for aggregating data, contrasting with averages, and pinpointing top performers.
+We investigate sales patterns across various dimensions: by pizza type, by category, by individual order, by day, and by size. The queries highlight methods for aggregating data, contrasting with averages, and pinpointing top performers.
 
 Queries Included:
 
